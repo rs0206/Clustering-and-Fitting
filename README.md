@@ -1,1 +1,2 @@
 # Clustering-and-Fitting
+This dataset provides a comprehensive view of various socioeconomic indicators across different countries. It includes data on child mortality rates, export and import figures, healthcare expenditures, income levels, inflation rates, life expectancy, fertility rates, and Gross Domestic Product (GDP). Analyzing this dataset can offer insights into the interplay between economic factors, public health, and demographic trends on a global scale.
